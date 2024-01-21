@@ -53,7 +53,7 @@ with col1:
     st.markdown("Often professionals would like to improve their emails, but don't have the skills to do so. \n\n This tool \
                 will help you improve your email skills by converting your emails into a more professional format. I used GEMINI model.")
 with col2:
-    st.image(image='img path', width=500)
+    st.image(image='image.jpg', width=500)
 
 
 st.markdown("## Enter Your Email to Convert")
