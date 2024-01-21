@@ -1,6 +1,6 @@
 # Langchain_Gemini_email
 
-##An email adviser using gemini-Pro. 
+## An email adviser using gemini-Pro. 
 When the user enters an email, the system generates the desired email based on the entered prompt, adjusting the tone and content according to the context.
 
 
