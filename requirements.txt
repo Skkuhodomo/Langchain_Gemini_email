@@ -1,3 +1,4 @@
+python==3.9
 langchain
 streamlit
 langchain-google-genai
