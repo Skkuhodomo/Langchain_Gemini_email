@@ -97,5 +97,5 @@ if email_input:
     
 
     
-# streamlit run /Users/pandabada/Desktop/langchain/Langchain_web_app/main.py
-# 입력 예시 Hi Prof. Matthew, I am Park from the English presentation class 2. I would like to inquire about why I received a grade of B+. I believe my performance is better than my friend Kim's.
+# streamlit run Langchain_web_app/main.py
+# input example:  Hi Prof. Matthew, I am Park from the English presentation class 2. I would like to inquire about why I received a grade of B+. I believe my performance is better than my friend Kim's.
