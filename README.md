@@ -29,6 +29,4 @@ Run
 ```
 Example:
 ![스크린샷 2023-12-31 오후 11 26 14](https://github.com/Skkuhodomo/Langchain_Gemini_email/assets/149789510/b89f0830-a132-4bee-bb46-e12dbba9f536)
-### Discussion
-I used "lambda". But I think it is not necessary to use 'lambda' when we use GPT. 
-I got a lot of errors,,After that finanlly I made my Gemini email adviser with using 'lamdba'.
+
