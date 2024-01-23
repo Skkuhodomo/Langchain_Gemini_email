@@ -3,11 +3,10 @@
 My first langchain code is uploaded [here](https://github.com/Skkuhodomo/Chat-GPT-Anecdote-Maker)🦜🔗
 ## Flow
 
-<img
-  src="flow.png"
-  width="700"
-  height="300"
-/>
+![preview](flow.png)
+
+
+
 
 ## An Email Adviser Using Gemini-Pro. 
 When the user enters an email, the system generates the desired email based on the entered prompt, adjusting the tone and content according to the context.
